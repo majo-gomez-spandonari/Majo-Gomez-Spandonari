@@ -18,7 +18,7 @@ on GRC, risk, and compliance auditing.
 
 ## Portfolio
 
-- [`network-ids-ips-suricata`](#) — IDS/IPS configuration and tuning
+- [`network-ids-ips-suricata`](https://github.com/majo-gomez-spandonari/network-ids-ips-suricata) — IDS/IPS configuration and tuning
 - [`pentest-metasploitable`](#) — enumeration and exploitation labs
 - [`digital-forensics-autopsy`](#) — forensic evidence recovery
 - [`crypto-pki-gpg`](#) — encryption and hash-cracking exercises
