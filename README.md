@@ -21,7 +21,7 @@ on GRC, risk, and compliance auditing.
 - [`network-ids-ips-suricata`](https://github.com/majo-gomez-spandonari/network-ids-ips-suricata) — IDS/IPS configuration and tuning
 - [`pentest-metasploitable`](https://github.com/majo-gomez-spandonari/pentest-metasploitable) — enumeration and exploitation labs
 - [`digital-forensics-autopsy`](https://github.com/majo-gomez-spandonari/Digital-forensics-autopsy) — forensic evidence recovery
-- [`crypto-pki-gpg`](#) — encryption and hash-cracking exercises
+- [`crypto-pki-gpg`](https://github.com/majo-gomez-spandonari/crypto-pki-gpg) — encryption and hash-cracking exercises
 - [`grc-security-audits`](#) — audit reports and risk assessments
 
 ## Currently
