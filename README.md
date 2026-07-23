@@ -22,7 +22,7 @@ on GRC, risk, and compliance auditing.
 - [`pentest-metasploitable`](https://github.com/majo-gomez-spandonari/pentest-metasploitable) — enumeration and exploitation labs
 - [`digital-forensics-autopsy`](https://github.com/majo-gomez-spandonari/Digital-forensics-autopsy) — forensic evidence recovery
 - [`crypto-pki-gpg`](https://github.com/majo-gomez-spandonari/crypto-pki-gpg) — encryption and hash-cracking exercises
-- [`grc-security-audits`](#) — audit reports and risk assessments
+- [`grc-security-audits`](https://github.com/majo-gomez-spandonari/grc-security-audits) — audit reports and risk assessments
 
 ## Currently
 
